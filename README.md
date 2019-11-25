@@ -1,2 +1,2 @@
 # make-piramida
-piramidamake your piramida
+make your piramid
